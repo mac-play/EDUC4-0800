@@ -1,18 +1,17 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+#EXTM3U 
+@KHAN ACADEMY// EMISOR DO PROGRAMA DE EDUCACÃO POR IPTV PLAYER 
+O ARQUIVO PRIVATD 
 
-# Other files and folders
-.settings/
+@MACPLAY LICENSE= PROGRAMA DE IPTV SINAL PRIVADO RESTRITO PARA COSUMO PROPRIO
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+📚CURSOS 
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨
+#EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="🎲ENTRETENIMENTO", DISNEY CHANNEL
+http://stlahiper.b-cdn.net/live/disneychannel/chunks.m3u8?token=LeAgACuSJrDdBA1_gxBo-JCGJcNkLPwx5FLdwYe634c&expires=1665625663
+
+#EXTINF:-1 tvg-logo="https://is.gd/ndLmAY" group-title="🎲ENTRETENIMENTO", NICKELODEON
+http://stlahiper.b-cdn.net/live/nickelodeon/chunks.m3u8?token=9_nt-gK7p0zUexrvxJLe1ZpOq0kvA5u3uhQDP7KsRlM&expires=1665708776
+
+#EXTINF:-1 tvg-logo="http://is.gd/z5CGcc" group-title="♻️DOCUMENTARIO", PLANETA ANIMAL
+http://stlahiper.b-cdn.net/live/animalplanet/chunks.m3u8?token=j0iZft4O5hfJz0ofRLEqheZ7ldH_6-TIDWbHiET44-4&expires=1665625591
